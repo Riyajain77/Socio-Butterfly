@@ -102,6 +102,8 @@ Start the client
 
 Acknowledging the current state of Socio-Butterfly, I want to express gratitude for your engagement with the platform. As its sole creator, I'm aware of certain functionalities experiencing turbulence, such as delayed real-time messaging and occasional login issues.
 
+After login or signup, the page is an error, so refresh the page the chat page will appear. you can create a group and search for the user by clicking on the search button and ensure that the user you are searching for is logged in. You can message the user, but there is some problem with the real-time messaging, so after messaging the user, click on some other user and again click on the user you have messaged, and the message will appear.
+
 Please be assured that rectifying these issues is a priority. For now, if you encounter any login challenges, a simple page refresh should seamlessly complete the login process. Being a novice in web development, I'm committed to refining Socio-Butterfly to deliver a seamless and enjoyable user experience. Expect continuous updates as I actively work on improvements.
 
 Thank you for your understanding and support.
